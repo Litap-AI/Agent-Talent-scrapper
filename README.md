@@ -1,3 +1,6 @@
+
+![Agent Talent Scraper Banner](banner.png)
+
 # Agent Talent Scraper
 
 AI-powered job scraping and intelligent filtering pipeline for discovering relevant AI/ML opportunities from multiple online sources.
