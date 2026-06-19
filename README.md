@@ -128,7 +128,10 @@ This project is intended for educational and research purposes.
 Please respect website terms of service while scraping.
 
 ---
+## License 
+Copyright © 2026 rohitmanikraopatil.com
+
+---
 
 ## Author
-
 Rohit Patil
